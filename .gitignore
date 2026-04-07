@@ -1,0 +1,13 @@
+# Project place file
+/rblx-tool-test.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+
+# Normally you'd want this, disabled for rojo example porpoises
+/src 
+default.project.json
+
